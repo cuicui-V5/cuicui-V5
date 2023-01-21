@@ -16,6 +16,6 @@
     ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
     ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) ![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS)
 -   📫 来这里联系我: [![Gmail Badge](https://img.shields.io/badge/-cuicuiv5@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:cuicuiv5@gmail.com)](mailto:cuicuiv5@gmail.com)
--   😄 代号: cuicuiv5 cuicui xrswyea
+-   😄 昵称: cuicuiv5 cuicui xrswyea
 
 ![](https://github-readme-stats.vercel.app/api?username=cuicui-V5)

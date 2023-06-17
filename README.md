@@ -8,7 +8,6 @@
 ![Vue.js](https://img.shields.io/static/v1?style=flat-square&message=Vue.js&color=222222&logo=Vue.js&logoColor=4FC08D&label=)
 ![Node.js](https://img.shields.io/static/v1?style=flat-square&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=)
 ![Vite](https://img.shields.io/static/v1?style=flat-square&message=Vite&color=646CFF&logo=Vite&logoColor=FFFFFF&label=)
-![Visual Studio Code](https://img.shields.io/static/v1?style=flat-square&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
 ![Git](https://img.shields.io/static/v1?style=flat-square&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
 
 -   🌱 我正在学习
@@ -26,3 +25,4 @@
 -   😄😄😄
 
 ![](https://github-readme-stats.vercel.app/api?username=cuicui-V5)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=cuicui-V5&layout=compact&hide_border=true&langs_count=10)
